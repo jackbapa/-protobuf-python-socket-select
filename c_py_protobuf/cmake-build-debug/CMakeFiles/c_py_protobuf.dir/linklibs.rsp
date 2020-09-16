@@ -1,0 +1,1 @@
+  -LL:/protobuf/pro/protobuf-3.12.3/mycout/lib  -lws2_32 -lprotobuf -lprotoc -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
